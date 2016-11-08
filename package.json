@@ -1,0 +1,28 @@
+{
+  "name": "blink1-webpack-plugin",
+  "version": "0.0.1",
+  "description": "Signal webpack build status with a blink(1) notification light",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "evan@coonrod.org",
+  "license": "MIT",
+  "dependencies": {
+    "node-blink1": "^0.2.2"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evanc/blink1-webpack-plugin.git"
+  },
+  "keywords": [
+    "webpack",
+    "webpack-plugin",
+    "blink1"
+  ],
+  "bugs": {
+    "url": "https://github.com/evanc/blink1-webpack-plugin/issues"
+  },
+  "homepage": "https://github.com/evanc/blink1-webpack-plugin#readme"
+}
